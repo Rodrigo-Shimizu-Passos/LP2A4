@@ -17,5 +17,7 @@ Cada pasta da raíz do repositório corresponde a uma atividade.
 <br>
 
 ## Índice
-
-
+<a href="https://github.com/Rodrigo-Shimizu-Passos/LP2A4/tree/main/RodrigoJPA-N%2B1">Exercício N+1</a><br><br>
+<a href="https://github.com/Rodrigo-Shimizu-Passos/LP2A4/tree/main/crud-jdbc/lp2a4_crud_properties-main">Crud Usando JDBC</a><br><br>
+<a href="https://github.com/Rodrigo-Shimizu-Passos/LP2A4/tree/main/crud-mvc-properties">Crud Usando Arquivo Properties</a><br><br>
+<a href="https://github.com/Rodrigo-Shimizu-Passos/LP2A4/blob/main/Atividade2.java">Atividade de Thread</a><br><br>
